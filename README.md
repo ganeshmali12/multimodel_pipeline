@@ -26,7 +26,7 @@ From `best_model_metadata.json`:
 - Accuracy: `0.7885`
 - F1 Macro: `0.7881`
 - Features used: `102`
-- Classes: `6` (`Anxiety`, `Depression`, `Mania`, `Normal`, `Stress`, `Suicidal`)
+- Classes: `6` (`Anxiety`, `Depression`, `bipolar disorder`, `Normal`, `Stress`, `Suicidal`)
 
 ## Repository Structure
 
